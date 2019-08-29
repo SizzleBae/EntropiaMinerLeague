@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\CMakeFiles\5ed488cae1eb56d6858c6a37201a9b29\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{75C7424B-285F-3730-8C35-3221B4613732}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

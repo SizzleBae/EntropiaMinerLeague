@@ -1,0 +1,66 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\ScreenCapture.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\SCCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\ThreadManager.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\windows\GetWindows.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\windows\GetMonitors.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\windows\DXFrameProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\windows\GDIFrameProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\windows\GDIMouseProcessor.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\src\windows\ThreadRunner.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\include\ScreenCapture.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\include\internal\SCCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\include\internal\ThreadManager.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\include\windows\DXFrameProcessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\include\windows\GDIFrameProcessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\include\windows\GDIMouseProcessor.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\include\windows\GDIHelpers.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{3D7F643C-EE4C-379B-B903-3C05DDCD5D6C}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFE011A7-69F3-30E7-A13C-C22A76133671}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

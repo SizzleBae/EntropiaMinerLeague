@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\Example\lodepng.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\Example\Screen_Capture_Example.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\Edward\source\repos\EntropiaMinerLeague\Dependencies\screen_capture_lite-master\Example\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{CFE011A7-69F3-30E7-A13C-C22A76133671}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

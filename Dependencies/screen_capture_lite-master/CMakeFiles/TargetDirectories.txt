@@ -1,0 +1,9 @@
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/CMakeFiles/screen_capture_lite.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/CMakeFiles/INSTALL.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/CMakeFiles/RUN_TESTS.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/CMakeFiles/ALL_BUILD.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/CMakeFiles/ZERO_CHECK.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/Example/CMakeFiles/screen_capture_example.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/Example/CMakeFiles/INSTALL.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/Example/CMakeFiles/RUN_TESTS.dir
+C:/Users/Edward/source/repos/EntropiaMinerLeague/Dependencies/screen_capture_lite-master/Example/CMakeFiles/ALL_BUILD.dir
